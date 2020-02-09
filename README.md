@@ -1,0 +1,2 @@
+# AppPhotoConfig
+Configuration to AppPhoto
